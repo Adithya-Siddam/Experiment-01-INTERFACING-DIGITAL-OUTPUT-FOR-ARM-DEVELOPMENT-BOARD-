@@ -162,11 +162,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 ## Case 1: OFF State
-<img width="250" alt="off r" src="https://github.com/Dhanireddy-Amarnthreddy/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94165103/59b64640-720a-4791-9b83-b58f8631dba1">
+![image](https://github.com/Adithya-Siddam/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/93427248/d1afed1c-89d6-4428-838e-3bd1243bcaca)
 
  
 ## Case 2: ON State
-<img width="293" alt="on r" src="https://github.com/Dhanireddy-Amarnthreddy/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94165103/67793f53-5828-49b3-a3af-45ac339f0299">
+![image](https://github.com/Adithya-Siddam/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/93427248/68439a77-6660-4ca6-a699-529bbce8f9da)
 
  
  
